@@ -286,6 +286,7 @@ h2 {
     border-radius: 24px;
     background-color: #FFF;
     margin-top: 64px;
+    margin-bottom: 64px;
 }
 #centretwo {
     width: 768px;
@@ -341,8 +342,58 @@ h2 {
 #arrowsix {
     background-color: #FFD5E7;
 }
-
-
+#boxthree {
+    width: 1248px;
+    padding: 32px 0px;
+    border-radius: 24px;
+    background: #FFF;
+    display: inline-block;
+}
+#forcentrethree {
+    margin: 0 auto;
+    display: inline-block;
+}
+#boxthreeh {
+    width: 1248px;
+    text-align: center;
+}
+#boxthreep {
+    color: #535862;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 64px;
+}
+#yutierti {
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    margin-left: 32px;
+}
+#qone {
+    color: #181D27;
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+#sienna {
+    display: inline-block;
+    vertical-align: top;
+    color: #181D27;
+    font-size: 18px;
+}
+#verifyone {
+    vertical-align: top;
+}
+#projman {
+    color: #535862;
+    font-size: 16px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#muyao {
+    display: inline-block;
+}
 
 
 
