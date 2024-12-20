@@ -370,6 +370,7 @@ h2 {
     border: 1px solid #E9EAEB;
     background-color: #FFF;
     margin-left: 32px;
+    display: inline-block;
 }
 #qone {
     color: #181D27;
@@ -377,23 +378,179 @@ h2 {
     margin-bottom: 80px;
 }
 #sienna {
-    display: inline-block;
-    vertical-align: top;
+    vertical-align: middle;
     color: #181D27;
     font-size: 18px;
+    display: inline-block;
 }
 #verifyone {
-    vertical-align: top;
+    vertical-align: middle;
 }
 #projman {
     color: #535862;
     font-size: 16px;
-    display: inline-block;
     vertical-align: middle;
 }
 #muyao {
     display: inline-block;
+    vertical-align: middle;
+}
+#textdiv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+#avatarone {
+    vertical-align: middle;
+}
+#warpdiv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 130px;
+}
+#yutiori {
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    margin-left: 32px;
+    display: inline-block;
+}
+#qtwo {
+    color: #181D27;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+#muyaoo {
+    display: inline-block;
+    vertical-align: middle;
+}
+#avatartwo {
+    vertical-align: middle;
+}
+#textdivv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+#caitlyn {
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 18px;
+    display: inline-block;
+}
+#verifytwo {
+    vertical-align: middle;
+}
+#coo {
+    color: #535862;
+    font-size: 16px;
+    vertical-align: middle;
+}
+#warpdivv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 130px;
 }
 
+
+#yutisami {
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    margin-left: 32px;
+    display: inline-block;
+    margin-top: 24px;
+}
+#qthree {
+    color: #181D27;
+    font-size: 20px;
+    margin-bottom: 60px;
+}
+#muyaooo {
+    display: inline-block;
+    vertical-align: middle;
+}
+#avatarthree {
+    vertical-align: middle;
+}
+#textdivvv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+#olly {
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 18px;
+    display: inline-block;
+}
+#verifythree {
+    vertical-align: middle;
+}
+#designer {
+    color: #535862;
+    font-size: 16px;
+    vertical-align: middle;
+}
+#warpdivvv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 130px;
+}
+
+
+#yutiotxi {
+    width: 580px;
+    padding: 32px;
+    border-radius: 12px;
+    border: 1px solid #E9EAEB;
+    background-color: #FFF;
+    margin-left: 32px;
+    display: inline-block;
+    margin-top: 24px;
+}
+#qfour {
+    color: #181D27;
+    font-size: 20px;
+    margin-bottom: 80px;
+}
+#muyaoooo {
+    display: inline-block;
+    vertical-align: middle;
+}
+#avatarfour {
+    vertical-align: middle;
+}
+#textdivvvv {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+#riley {
+    vertical-align: middle;
+    color: #181D27;
+    font-size: 18px;
+    display: inline-block;
+}
+#verifyfour {
+    vertical-align: middle;
+}
+#engineer {
+    color: #535862;
+    font-size: 16px;
+    vertical-align: middle;
+}
+#warpdivvvv {
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 130px;
+}
+body {
+    margin-bottom: 50px;
+}
 
 
